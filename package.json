@@ -1,0 +1,33 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "my application",
+  "main": "main.js",
+  "scripts": {
+    "test": "start testing",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-express"
+  },
+  "keywords": [
+    "123456a@"
+  ],
+  "author": "longnv",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
